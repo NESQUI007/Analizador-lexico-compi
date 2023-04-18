@@ -1,0 +1,5 @@
+if: Es una palabra reservada 
+x: Es un Identificador
+Token: Igual
+3: Es un Numero
+FIN
